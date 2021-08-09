@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'me.jpg',
-  paragraphOne: 'I am Anirudh Sriram, a self taught web developer. I am a full time web developer at Siemens and a part time open source contributer.',
-  paragraphTwo: 'I spend most of my time building projects to learn new tech and improve my standing on HackerRank.',
-  paragraphThree: 'I Currently work on React for my projects and Angular at work',
-  resume: 'https://docs.google.com/document/d/e/2PACX-1vQopHraQMFR-ohXU1XfrcxBStw3xqBOL7j3QQbjTPqq5ruVtjYmKMKnDxGEJEvqaz93SICr34U86dkl/pub', // if no resume, the button will not show up
+  paragraphOne: 'I am Anirudh Sriram, a self taught web developer.I am a Computer Science masters student at SUNY Buffalo. I am a part time open source contributer and was a full time web developer at Siemens.',
+  paragraphTwo: 'I spend most of my time building projects to learn new tech and improve my standing on HackerRank and Leetcode.',
+  paragraphThree: 'I Currently work on React, Python and Angular.',
+  resume: 'https://docs.google.com/document/d/e/2PACX-1vRuZ785q7-8EbdC7WAEIvxacZ2Ycvffw_vpVE08rySmnT5S0ZK8MJiGeX19akFMI8t9BLWIjDHBkjvy/pub', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
