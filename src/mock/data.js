@@ -55,7 +55,7 @@ export const projectsData = [
   },
     {
     id: nanoid(),
-    img: 'meme-gen.png',
+    img: '',
     title: 'Whats True',
     info: 'A covid and health news validator where health-related WhatsApp forwards are validated by health professionals and information is aggregated and stored as training data for supervised ML models',
     info2: 'Built with fastAPI, React and mongoDB',
