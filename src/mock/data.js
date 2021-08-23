@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am Anirudh Sriram, a self taught web developer.I am a Computer Science masters student at SUNY Buffalo. I am a part time open source contributer and was a full time web developer at Siemens.',
   paragraphTwo: 'I spend most of my time building projects to learn new tech and improve my standing on HackerRank and Leetcode.',
   paragraphThree: 'I Currently work on React, Python and Angular.',
-  resume: 'https://standardresume.co/r/aaditya-sriram-10494', // if no resume, the button will not show up
+  resume: 'https://standardresume.co/r/anirudh-sriram-10494', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -55,7 +55,7 @@ export const projectsData = [
   },
     {
     id: nanoid(),
-    img: '',
+    img: ' ',
     title: 'Whats True',
     info: 'A covid and health news validator where health-related WhatsApp forwards are validated by health professionals and information is aggregated and stored as training data for supervised ML models',
     info2: 'Built with fastAPI, React and mongoDB',
